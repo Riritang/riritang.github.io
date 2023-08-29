@@ -2,5 +2,3 @@ theme: jekyll-theme-minimal
 title: Yuan's homepage
 description: my!
 url: "https://yuan.github.io"
-exclude:
-  - README.md
